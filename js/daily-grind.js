@@ -77,7 +77,7 @@ switch(myDay){
                 pic: "images/drip.jpg",
                 alt: "A picture of Drip Coffee",
                 day: "Monday",
-                desc: `The Drip is the greatest menu item ever!`
+                desc: `The Drip is the greatest menu item ever! Drip my drip my drip!!! sheeesh`
     }
     break;
 
